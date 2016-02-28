@@ -1,0 +1,26 @@
+_repo: Studies-from-Court-and-Cloister-being-essays-historical-and-literary-dealing-mainly-with-subje__4333
+creator:
+  author:
+    agent_name: Stone, J. M. (Jean Mary)
+    alias: Stone, Jean Mary
+    birthdate: 1853
+    deathdate: 1908
+    gutenberg_agent_id: '1450'
+    url: http://www.gutenberg.org/2009/agents/1450
+description: ''
+gutenberg_issued: '2003-08-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '4333'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Reformation in literature'
+- !lcsh 'Margaret, Queen, consort of James IV, King of Scotland, 1489-1541'
+- !lcsh 'Great Britain -- History -- Henry VIII, 1509-1547'
+- !lcc 'DA'
+title: 'Studies from Court and Cloister: being essays, historical and literary dealing
+  mainly with subjects relating to the XVIth and XVIIth centuries'
+url: http://www.gutenberg.org/ebooks/4333
