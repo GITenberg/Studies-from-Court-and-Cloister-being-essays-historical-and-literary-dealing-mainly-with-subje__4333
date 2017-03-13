@@ -1,5 +1,8 @@
 _repo: Studies-from-Court-and-Cloister-being-essays-historical-and-literary-dealing-mainly-with-subje__4333
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Stone, J. M. (Jean Mary)
@@ -9,6 +12,8 @@ creator:
     gutenberg_agent_id: '1450'
     url: http://www.gutenberg.org/2009/agents/1450
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/4333#Studies-from-Court-and-Cloister-being-essays-historical-and-literary-dealing-mainly-with-subje_
 gutenberg_issued: '2003-08-01'
 gutenberg_type: Text
 identifiers:
