@@ -1,5 +1,5 @@
 _repo: Studies-from-Court-and-Cloister-being-essays-historical-and-literary-dealing-mainly-with-subje__4333
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -27,6 +27,7 @@ subjects:
 - !lcsh 'Margaret, Queen, consort of James IV, King of Scotland, 1489-1541'
 - !lcsh 'Great Britain -- History -- Henry VIII, 1509-1547'
 - !lcc 'DA'
+- GITenberg
 title: 'Studies from Court and Cloister: being essays, historical and literary dealing
   mainly with subjects relating to the XVIth and XVIIth centuries'
 url: http://www.gutenberg.org/ebooks/4333
